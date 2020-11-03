@@ -1,0 +1,42 @@
+too few entries
+
+INTKEY          
+EXCEPTRSNCODE
+EXCEPTRSNDESC
+INATTENTIONIND
+SPEEDING
+
+
+*Speeding has really low data as well...but it's very important. Think about it later
+
+not relevant to the objective
+INCKEY
+COLDETKEY
+REPORTNO
+STATUS
+SEVERITYCODE.1
+JUNCTIONTYPE
+SDOT_COLCODE
+
+It is kind of relevant, but too difficult to find a way fill in the blanks
+COLLISIONTYPE
+
+Missing values. So, as I have the time recorded with no missing data, i'll use that and convert it to 'DAY', 'NIGHT', 'DAWN', ETC
+
+unnecessary
+SEVERITYDESC
+
+2. FILLING THE BLANKS
+COLLISIONTYPE
+  
+LIGHTCOND
+
+
+
+after getting stuck, decided to keep only:
+SEVERITYCODE
+UNDERINFL
+INCDTTM
+WEATHER
+ROADCOND
+
